@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 [Try it yourself (Live Demo)](https://sharpner.streamlit.app)
+### 🚀 [Try it yourself (Live Demo)]
 
 
 
